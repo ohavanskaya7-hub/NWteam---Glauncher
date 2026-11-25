@@ -42,5 +42,9 @@
     "description": "A runner game about a singing nugget—are you serious?",
     "description_ru": "игра раннер про поющий наггетс, вы серьезно?",
     "download_url": "https://github.com"
-  }
-]
+  {
+  "id": "game_3",
+  "title": "ERROR404",
+  "image_url": "https://raw.githubusercontent.com/твой_ник/репо/main/covers/error404.png",
+  ...
+}
