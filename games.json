@@ -1,0 +1,30 @@
+[
+  {
+    "id": "game_1",
+    "title": "Zombie Yshanka",
+    "description": "Zombie Yshanka is a survival game that parodies the concept: What would happen if humans stopped looking after the Earth?",
+    "download_url": "https://github.com",
+    "exe_name": "ZY.exe"
+  },
+  {
+    "id": "game_2",
+    "title": "Название игры 2",
+    "description": "Описание второй игры от GolubyakasSTUDIOS и NWteam",
+    "download_url": "https://github.com",
+    "exe_name": "Game2.exe"
+  },
+  {
+    "id": "game_3",
+    "title": "Название игры 3",
+    "description": "Описание третьей игры от GolubyakasSTUDIOS и NWteam",
+    "download_url": "https://github.com",
+    "exe_name": "Game3.exe"
+  },
+  {
+    "id": "game_4",
+    "title": "Название игры 4",
+    "description": "Описание четвертой игры от GolubyakasSTUDIOS и NWteam",
+    "download_url": "https://github.com",
+    "exe_name": "Game4.exe"
+  }
+]
