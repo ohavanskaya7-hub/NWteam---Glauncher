@@ -2,6 +2,9 @@
   {
     "id": "game_1",
     "title": "Zombie Yshanka",
+    "platform": "windows",
+    "release_info": "Release: 2026 | Alpha: 2024",
+    "release_info_ru": "Релиз: 2026 | Альфа: 2024",
     "description": "Zombie Yshanka is a survival game that parodies the concept: What would happen if humans stopped looking after the Earth?",
     "description_ru": "Zombie Yshanka — это игра на выживание, пародирующая идею: что произойдёт, если люди перестанут присматривать за Землёй?",
     "download_url": "https://github.com",
@@ -10,25 +13,34 @@
   {
     "id": "game_2",
     "title": ".Sunlight.Silence.",
+    "platform": "windows",
+    "release_info": "Beta: in development | Alpha: in development",
+    "release_info_ru": "Бета: in development | Альфа: in development",
     "description": "To the collectors heading to the site where horrific murders took place: are you prepared to experience what the creatures there went through?",
-    "description_ru": "Коллекционерам, отправляющимся на место жестоких убийств: готовы ли вы испытать то, через что прошли тамошние существа?",
+    "description_ru": "коллекторы, отправляющимся на место жестоких убийств: готовы ли вы испытать то, через что прошли те самые пушистые существа?",
     "download_url": "https://github.com",
     "exe_name": "SunlightSilence.exe"
   },
   {
     "id": "game_3",
     "title": "ERROR404",
+    "platform": "windows",
+    "release_info": "Release: 12.06.2026 | Beta: 2026",
+    "release_info_ru": "Релиз: 12.06.2026 | Бета: 2026",
     "description": "Error404: not found, new horror game by NWteam, you - hero in the island, complete king’s quest and earn free gold or diediediediediediedie",
     "description_ru": "Error404: не найдено — новый хоррор от NWteam. Вы — герой на острове: выполните задание короля и получите бесплатное золото или умриумриумриумриумри",
-    "download_url": "https://github.com",
+    "download_url_64": "https://github.com/ohavanskaya7-hub/NWteam---Glauncher/releases/download/error404-v4/error404_64.zip",
+    "download_url_32": "https://github.com/ohavanskaya7-hub/NWteam---Glauncher/releases/download/error404-v4/error404_32.zip",
     "exe_name": "Error404.exe"
   },
   {
     "id": "game_4",
-    "title": "Название игры 4",
-    "description": "Description of the fourth game by GolubyakasSTUDIOS and NWteam",
-    "description_ru": "Описание четвертой игры от GolubyakasSTUDIOS и NWteam",
-    "download_url": "https://github.com",
-    "exe_name": "Game4.exe"
+    "title": "Nugget Run mobile",
+    "platform": "android",
+    "release_info": "Release: 2025 | Platform: Android",
+    "release_info_ru": "Релиз: 2025 | Платформа: Android",
+    "description": "A runner game about a singing nugget—are you serious?",
+    "description_ru": "игра раннер про поющий наггетс, вы серьезно?",
+    "download_url": "https://github.com"
   }
 ]
