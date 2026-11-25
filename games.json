@@ -3,27 +3,31 @@
     "id": "game_1",
     "title": "Zombie Yshanka",
     "description": "Zombie Yshanka is a survival game that parodies the concept: What would happen if humans stopped looking after the Earth?",
+    "description_ru": "Zombie Yshanka — это игра на выживание, пародирующая идею: что произойдёт, если люди перестанут присматривать за Землёй?",
     "download_url": "https://github.com",
     "exe_name": "ZY.exe"
   },
   {
     "id": "game_2",
-    "title": "Название игры 2",
-    "description": "Описание второй игры от GolubyakasSTUDIOS и NWteam",
+    "title": ".Sunlight.Silence.",
+    "description": "To the collectors heading to the site where horrific murders took place: are you prepared to experience what the creatures there went through?",
+    "description_ru": "Коллекционерам, отправляющимся на место жестоких убийств: готовы ли вы испытать то, через что прошли тамошние существа?",
     "download_url": "https://github.com",
-    "exe_name": "Game2.exe"
+    "exe_name": "SunlightSilence.exe"
   },
   {
     "id": "game_3",
-    "title": "Название игры 3",
-    "description": "Описание третьей игры от GolubyakasSTUDIOS и NWteam",
+    "title": "ERROR404",
+    "description": "Error404: not found, new horror game by NWteam, you - hero in the island, complete king’s quest and earn free gold or diediediediediediedie",
+    "description_ru": "Error404: не найдено — новый хоррор от NWteam. Вы — герой на острове: выполните задание короля и получите бесплатное золото или умриумриумриумриумри",
     "download_url": "https://github.com",
-    "exe_name": "Game3.exe"
+    "exe_name": "Error404.exe"
   },
   {
     "id": "game_4",
     "title": "Название игры 4",
-    "description": "Описание четвертой игры от GolubyakasSTUDIOS и NWteam",
+    "description": "Description of the fourth game by GolubyakasSTUDIOS and NWteam",
+    "description_ru": "Описание четвертой игры от GolubyakasSTUDIOS и NWteam",
     "download_url": "https://github.com",
     "exe_name": "Game4.exe"
   }
